@@ -1,4 +1,4 @@
-👋 Hi, I’m @sumanghoshgcp1, a **Result-oriented Full-stack Developer** with over a decade of experience in **cloud technologies** and **cloud migrations**. 
+👋 Hi, I’m Suman Ghosh, a **Result-oriented Full-stack Developer** with over a decade of experience in **cloud technologies** and **cloud migrations**. 
 
 🚀 I specialize in **Git-Ops** and **containerized deployments** on **Google Kubernetes Engine (GKE)**, leading the development of Java web applications that manage configurations across multiple environments.
 
